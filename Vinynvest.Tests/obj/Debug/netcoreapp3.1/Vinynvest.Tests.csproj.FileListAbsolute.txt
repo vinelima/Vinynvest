@@ -1,0 +1,3 @@
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Tests\obj\Debug\netcoreapp3.1\Vinynvest.Tests.csprojAssemblyReference.cache
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Tests\obj\Debug\netcoreapp3.1\Vinynvest.Tests.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Tests\obj\Debug\netcoreapp3.1\Vinynvest.Tests.AssemblyInfo.cs

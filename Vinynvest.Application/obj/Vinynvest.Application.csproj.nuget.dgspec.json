@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj",
+        "projectName": "Vinynvest.Application",
+        "projectPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj",
+        "packagesPath": "C:\\Users\\Vinicius.Lima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinicius.Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Infra.CrossCutting\\Vinynvest.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Infra.CrossCutting\\Vinynvest.Infra.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Azure.AppService.ApiApps.Service": {
+              "target": "Package",
+              "version": "[0.9.64, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Infra.CrossCutting\\Vinynvest.Infra.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Infra.CrossCutting\\Vinynvest.Infra.CrossCutting.csproj",
+        "projectName": "Vinynvest.Infra.CrossCutting",
+        "projectPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Infra.CrossCutting\\Vinynvest.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Vinicius.Lima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Infra.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinicius.Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Azure.AppService.ApiApps.Service": {
+              "target": "Package",
+              "version": "[0.9.64, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

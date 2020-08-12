@@ -1,0 +1,8 @@
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\linux-x64\Vinynvest.Application.deps.json
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\linux-x64\Vinynvest.Application.dll
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\linux-x64\Vinynvest.Application.pdb
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\linux-x64\Vinynvest.Application.csprojAssemblyReference.cache
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\linux-x64\Vinynvest.Application.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\linux-x64\Vinynvest.Application.AssemblyInfo.cs
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\linux-x64\Vinynvest.Application.dll
+C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\linux-x64\Vinynvest.Application.pdb
