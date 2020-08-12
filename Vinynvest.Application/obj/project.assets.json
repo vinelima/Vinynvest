@@ -209,11 +209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj",
       "projectName": "Vinynvest.Application",
-      "projectPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj",
+      "projectPath": "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj",
       "packagesPath": "C:\\Users\\Vinicius.Lima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\Vinynvest.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius.Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -229,8 +229,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Infra.CrossCutting\\Vinynvest.Infra.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Infra.CrossCutting\\Vinynvest.Infra.CrossCutting.csproj"
+            "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\Vinynvest.Infra.CrossCutting\\Vinynvest.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\Vinynvest.Infra.CrossCutting\\Vinynvest.Infra.CrossCutting.csproj"
             }
           }
         }

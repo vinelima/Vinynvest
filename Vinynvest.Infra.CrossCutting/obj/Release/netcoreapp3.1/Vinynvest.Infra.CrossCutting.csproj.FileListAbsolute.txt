@@ -6,3 +6,11 @@ C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Infra.CrossCutting\obj\R
 C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Infra.CrossCutting\obj\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.AssemblyInfo.cs
 C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Infra.CrossCutting\obj\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.dll
 C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Infra.CrossCutting\obj\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.pdb
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Infra.CrossCutting\bin\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.deps.json
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Infra.CrossCutting\bin\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.dll
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Infra.CrossCutting\bin\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.pdb
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Infra.CrossCutting\obj\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Infra.CrossCutting\obj\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Infra.CrossCutting\obj\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Infra.CrossCutting\obj\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.dll
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Infra.CrossCutting\obj\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.pdb

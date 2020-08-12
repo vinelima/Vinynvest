@@ -9134,11 +9134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\vinynvest\\Vinynvest.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\vinynvest\\Vinynvest.Presentation.csproj",
       "projectName": "Vinynvest.Presentation",
-      "projectPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\vinynvest\\Vinynvest.Presentation.csproj",
+      "projectPath": "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\vinynvest\\Vinynvest.Presentation.csproj",
       "packagesPath": "C:\\Users\\Vinicius.Lima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\vinynvest\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\vinynvest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius.Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9154,8 +9154,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj": {
-              "projectPath": "C:\\Users\\Vinicius.Lima\\source\\repos\\Vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj"
+            "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj": {
+              "projectPath": "C:\\Users\\Vinicius.Lima\\Documents\\GitHub\\vinynvest\\Vinynvest.Application\\Vinynvest.Application.csproj"
             }
           }
         }

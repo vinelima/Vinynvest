@@ -9,3 +9,14 @@ C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\obj\Release\
 C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.dll
 C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.pdb
 C:\Users\Vinicius.Lima\source\repos\Vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\Vinynvest.Application.csproj.CopyComplete
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\Vinynvest.Application.deps.json
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\Vinynvest.Application.dll
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\Vinynvest.Application.pdb
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.dll
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\bin\Release\netcoreapp3.1\Vinynvest.Infra.CrossCutting.pdb
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\Vinynvest.Application.csprojAssemblyReference.cache
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\Vinynvest.Application.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\Vinynvest.Application.AssemblyInfo.cs
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\Vinynvest.Application.csproj.CopyComplete
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\Vinynvest.Application.dll
+C:\Users\Vinicius.Lima\Documents\GitHub\vinynvest\Vinynvest.Application\obj\Release\netcoreapp3.1\Vinynvest.Application.pdb

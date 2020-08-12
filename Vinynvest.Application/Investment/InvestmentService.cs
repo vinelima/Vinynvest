@@ -69,7 +69,7 @@ namespace Vinynvest.Application
                 investments.Investments.Add(new Investment.Dto.Investment
                 {
                     InvestedAmount = treasurie.InvestedAmount,
-                    DueDate = DateTime.Now,
+                    DueDate = treasurie.DueDate,
                     IncomeTax = IncomeTax(treasurie.TotalAmount, treasurie.InvestedAmount, InvestmentType.Treasurie),
                     Name = treasurie.Name,
                     TotalAmount = treasurie.TotalAmount,
